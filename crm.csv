@@ -1,0 +1,51 @@
+CustomerID,CustomerName,Company,Industry,Plan,MRR,Owner,Stage
+101,Rahul Sharma,ABC Technologies,SaaS,Enterprise,75000,John,Negotiation
+102,Priya Singh,FinEdge,Finance,Professional,45000,Sarah,Proposal Sent
+103,Amit Kumar,TechNova,IT,Starter,12000,David,Demo Scheduled
+104,Sneha Patel,CloudX,Cloud,Enterprise,98000,John,Active
+105,Vikram Rao,PayFlow,Fintech,Professional,52000,Sarah,Follow Up
+106,Ananya Reddy,BlueSoft,Software,Enterprise,85000,David,Negotiation
+107,Rohit Verma,RetailOne,Retail,Starter,15000,John,Demo Scheduled
+108,Neha Kapoor,HealthPlus,Healthcare,Professional,40000,Sarah,Proposal Sent
+109,Karan Mehta,SmartLogix,Logistics,Enterprise,91000,David,Active
+110,Divya Nair,GreenEnergy,Energy,Professional,56000,John,Follow Up
+111,Arjun Patel,NextGen AI,AI,Enterprise,120000,Sarah,Negotiation
+112,Pooja Rao,SecureNet,Cybersecurity,Starter,18000,David,Demo Scheduled
+113,Harish Kumar,QuickFoods,FoodTech,Professional,47000,John,Proposal Sent
+114,Ritu Sharma,TravelBee,Travel,Enterprise,99000,Sarah,Active
+115,Suresh Babu,BuildPro,Construction,Starter,14000,David,Follow Up
+116,Nikhil Jain,AutoDrive,Automobile,Professional,43000,John,Negotiation
+117,Meera Joshi,EduLearn,Education,Enterprise,87000,Sarah,Proposal Sent
+118,Sanjay Gupta,MarketHub,E-commerce,Professional,49000,David,Demo Scheduled
+119,Aisha Khan,FreshMart,Retail,Starter,16000,John,Active
+120,Ramesh Iyer,CloudCore,Cloud,Enterprise,110000,Sarah,Negotiation
+121,Akash Singh,VisionTech,IT,Professional,51000,David,Follow Up
+122,Kavya Rani,AgriGrow,Agriculture,Starter,17000,John,Proposal Sent
+123,Manoj Das,MedCare,Healthcare,Enterprise,93000,Sarah,Demo Scheduled
+124,Deepika Sen,MediaBuzz,Media,Professional,46000,David,Active
+125,Rajesh Yadav,CityBank,Banking,Enterprise,105000,John,Negotiation
+126,Swathi Reddy,QuickPay,Fintech,Professional,55000,Sarah,Follow Up
+127,Ajay Kumar,FutureLabs,Research,Starter,13000,David,Demo Scheduled
+128,Priyanka Bose,UrbanHomes,Real Estate,Enterprise,96000,John,Proposal Sent
+129,Rohan Shah,InnoSoft,Software,Professional,48000,Sarah,Negotiation
+130,Anil Nair,SpeedCargo,Logistics,Starter,15000,David,Active
+131,Shruthi Rao,WellCare,Healthcare,Enterprise,89000,John,Follow Up
+132,Gaurav Mishra,FinWorks,Finance,Professional,57000,Sarah,Negotiation
+133,Komal Jain,LearnSmart,Education,Starter,20000,David,Proposal Sent
+134,Vivek Anand,PowerGrid,Energy,Enterprise,118000,John,Active
+135,Sonal Gupta,ShopEase,E-commerce,Professional,54000,Sarah,Demo Scheduled
+136,Tarun Singh,AI Labs,AI,Starter,22000,David,Negotiation
+137,Shreya Das,HotelNest,Hospitality,Enterprise,94000,John,Proposal Sent
+138,Prakash Rao,MoveFast,Logistics,Professional,50000,Sarah,Active
+139,Nisha Kapoor,DigitalEdge,Marketing,Starter,18000,David,Follow Up
+140,Varun Reddy,TechFusion,IT,Enterprise,101000,John,Negotiation
+141,Anita Sharma,FreshFoods,FoodTech,Professional,53000,Sarah,Demo Scheduled
+142,Krishna Patel,CleanEnergy,Energy,Starter,21000,David,Proposal Sent
+143,Pallavi Joshi,DataWave,Analytics,Enterprise,112000,John,Active
+144,Sunil Verma,CoreSystems,Software,Professional,59000,Sarah,Follow Up
+145,Rekha Menon,LifeCare,Healthcare,Starter,19000,David,Negotiation
+146,Ashwin Kumar,LogiPro,Logistics,Enterprise,97000,John,Proposal Sent
+147,Ritika Singh,SmartRetail,Retail,Professional,56000,Sarah,Active
+148,Mohit Jain,CloudVision,Cloud,Starter,17000,David,Demo Scheduled
+149,Keerthi Rao,FinBridge,Finance,Enterprise,115000,John,Negotiation
+150,Abhishek Das,NovaTech,IT,Professional,61000,Sarah,Follow Up

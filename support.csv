@@ -1,0 +1,51 @@
+CustomerID,OpenTickets,LastIssue,Priority
+101,2,Payment Failure,High
+102,0,None,None
+103,1,Login Issue,Medium
+104,0,None,None
+105,3,Card Declined,Critical
+106,1,Invoice Delay,Medium
+107,0,None,None
+108,2,API Integration,High
+109,0,None,None
+110,1,Payment Gateway,Medium
+111,0,None,None
+112,2,Password Reset,Low
+113,1,Billing Query,Medium
+114,0,None,None
+115,3,Subscription Error,Critical
+116,0,None,None
+117,1,Login Issue,Medium
+118,2,Report Export,Medium
+119,0,None,None
+120,1,Invoice Delay,Low
+121,2,Payment Failure,High
+122,0,None,None
+123,1,Account Setup,Low
+124,0,None,None
+125,2,Card Declined,High
+126,1,Billing Query,Medium
+127,0,None,None
+128,2,Integration Failure,High
+129,1,Login Issue,Low
+130,0,None,None
+131,2,Payment Failure,High
+132,0,None,None
+133,1,Report Issue,Medium
+134,0,None,None
+135,2,Subscription Renewal,Medium
+136,1,API Timeout,Medium
+137,0,None,None
+138,2,Invoice Error,High
+139,1,Password Reset,Low
+140,0,None,None
+141,2,Payment Gateway,High
+142,1,Login Issue,Low
+143,0,None,None
+144,2,Billing Error,Medium
+145,1,Support Request,Low
+146,0,None,None
+147,2,Card Declined,High
+148,1,API Issue,Medium
+149,0,None,None
+150,2,Invoice Delay,Medium

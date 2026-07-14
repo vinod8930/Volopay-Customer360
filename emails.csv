@@ -1,0 +1,51 @@
+CustomerID,LastEmail,ResponseStatus
+101,Interested in Enterprise Demo,Positive
+102,Requested Pricing Details,Waiting
+103,Asked for Technical Support,Resolved
+104,Renewal Discussion,Positive
+105,Complained About Card Limit,Negative
+106,Requested Product Demo,Positive
+107,Waiting for Internal Approval,Waiting
+108,API Documentation Query,Positive
+109,Contract Signed,Positive
+110,Need Pricing Clarification,Waiting
+111,Interested in Annual Plan,Positive
+112,Password Reset Request,Resolved
+113,Billing Question,Waiting
+114,Renewal Confirmed,Positive
+115,Complaint About Subscription,Negative
+116,Demo Feedback Shared,Positive
+117,Technical Questions,Resolved
+118,Requested Integration Support,Waiting
+119,General Product Enquiry,Positive
+120,Enterprise Upgrade Discussion,Positive
+121,Invoice Issue Raised,Negative
+122,Requested Brochure,Waiting
+123,Account Activated,Positive
+124,Renewal Discussion,Positive
+125,Escalated Payment Issue,Negative
+126,Requested Callback,Waiting
+127,Demo Scheduled,Positive
+128,Integration Progress Update,Positive
+129,Need More Information,Waiting
+130,Welcome Email Sent,Positive
+131,Payment Issue Follow-up,Negative
+132,Pricing Discussion,Positive
+133,Requested Product Guide,Waiting
+134,Annual Renewal Completed,Positive
+135,Subscription Upgrade Discussion,Positive
+136,API Support Requested,Resolved
+137,Contract Review Completed,Positive
+138,Invoice Clarification,Waiting
+139,Password Reset Completed,Resolved
+140,Negotiation Meeting Scheduled,Positive
+141,Payment Confirmation Pending,Waiting
+142,Product Trial Feedback,Positive
+143,Expansion Opportunity Discussion,Positive
+144,Billing Support Request,Waiting
+145,Support Ticket Closed,Resolved
+146,Renewal Proposal Sent,Positive
+147,Card Issue Escalated,Negative
+148,API Documentation Shared,Resolved
+149,Enterprise Pricing Accepted,Positive
+150,Final Proposal Shared,Waiting
